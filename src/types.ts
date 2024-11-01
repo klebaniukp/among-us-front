@@ -15,3 +15,5 @@ export interface Task {
     sequence?: number[];
     shapes?: string[];
 }
+
+interface g {}
